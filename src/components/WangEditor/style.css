@@ -1,0 +1,14 @@
+.wang-editor-wrapper {
+  border: 1px solid #dcdfe6;
+  border-radius: 4px;
+  z-index: 100;
+}
+
+.wang-editor-toolbar {
+  border-bottom: 1px solid #dcdfe6;
+}
+
+.wang-editor-content {
+  height: 400px !important;
+  overflow-y: hidden;
+}
